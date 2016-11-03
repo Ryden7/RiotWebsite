@@ -1,0 +1,35 @@
+body
+{
+background-color: #616161;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;
+}
+
+#header
+{
+background-color: #BDBDBD;
+margin: 10px;
+height: 90px;
+border-radius: 5px; 
+
+}
+
+#navbar
+{
+background-color: #000000;
+margin: 10px;
+height: 35px;
+border-radius: 5px; 
+
+
+}
+
+.main
+{
+background-color: #9E9E9E;
+margin: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+}
